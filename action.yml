@@ -1,4 +1,4 @@
-name: Setup YouTube Uploader
+name: Setup YouTube Uploader (Fixed version)
 description: Setup/Install YouTube Uploader for GitHub Actions
 branding:
   icon: upload
